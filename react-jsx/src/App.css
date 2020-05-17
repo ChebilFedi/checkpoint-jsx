@@ -1,0 +1,31 @@
+.App {
+  background-image: url("https://miro.medium.com/max/768/1*3V0HjcsRH8FyfWOrnS0gEg.png");
+  text-align: center;
+  background-size: 100% 100% ;
+  background-repeat: no-repeat;
+}
+
+
+
+
+img{
+  width: 600px;
+  height: 400px;
+}
+video{
+  height: 400px;
+  width: 600px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
